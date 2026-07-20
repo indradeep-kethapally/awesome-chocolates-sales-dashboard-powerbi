@@ -19,4 +19,5 @@ Dataset provided as part of Chandoo.org's Power BI tutorial series
 Tutorial reference: https://youtu.be/ooJO7NW4uJU
 
 ## Screenshot
-![Dashboard](dashboard-screenshot.png)
+<img width="959" height="509" alt="Screenshot 2026-07-20 193459" src="https://github.com/user-attachments/assets/bfc833cf-a0cd-4fa1-b082-2d3aa4120123" />
+
